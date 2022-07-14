@@ -1,0 +1,27 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover !important;
+    border-style: ridge;
+    padding-top: 1px;
+    border-width: 11px !important;
+    border-color: brown !important;
+}
+#myCanvas
+{
+   background-image:url(BirthdayImage.jpg);
+   background-position:center;
+   background-size:cover !important;
+   border-radius: 15%;
+   border-style: ridge;
+   border-width: 5px !important;
+   border-color: brown !important;
+}
+#dear__btn{
+    font-size: 25px;
+    background-color: rgba(127, 255, 212, 0.752);
+    font-weight: bolder;
+    color: black;
+}
+
